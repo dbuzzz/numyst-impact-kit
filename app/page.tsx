@@ -15,6 +15,7 @@ import FinalCTA from '@/components/FinalCTA';
 import Reviews from '@/components/Reviews';
 import Footer from '@/components/Footer';
 import SpinWheel from '@/components/SpinWheel';
+import NiviChatWidget from '@/components/NiviChatWidget';
 
 export default function Home() {
   return (
@@ -52,6 +53,7 @@ export default function Home() {
       
       <Footer />
       <SpinWheel />
+      <NiviChatWidget />
     </main>
   );
 }
