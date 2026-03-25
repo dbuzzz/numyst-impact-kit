@@ -14,7 +14,7 @@ const vibes = [
   {
     id: "crush",
     name: "cRush",
-    category: "For Her",
+    category: "Unisex",
     image: "/impactkit/assets/crush.png",
     desc: "Spicy, bold, and magnetic.",
   },

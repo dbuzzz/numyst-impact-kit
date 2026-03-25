@@ -112,7 +112,7 @@ export default function HeroSection() {
 
           {/* Description */}
           <p className="text-gray-500 text-base sm:text-lg max-w-md mx-auto lg:mx-0 mb-6 leading-relaxed">
-            Discover the Impact Kit — a curated collection of 5 premium masculine fragrances.
+            Discover the Impact Kit — a curated collection of 5 premium fragrances.
             Find your signature scent before the world does.
           </p>
 
